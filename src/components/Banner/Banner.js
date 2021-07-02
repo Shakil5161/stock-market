@@ -2,9 +2,9 @@ import React from "react";
 import BannerImg from "../../img/bnr_img.png";
 const Banner = () => {
   return (
-    <div class="bg-gray-800">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between text-white">
+    <div class="bg-gray-800 ">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
+        <div className="flex items-center justify-between text-white ">
           <div className="pt-44 pb-44">
             <h4 class="font-sans text-3xl font-semibold">
               Our Fund, Your Profit

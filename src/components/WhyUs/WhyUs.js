@@ -12,16 +12,11 @@ const WhyUs = () => {
             <div className="w-full dark:bg-gray-900 py-10">
         <div className="container mx-auto px-6 flex items-start justify-center">
           <div className="w-90%">
-            {/* Card is full width. Use in 12 col grid for best view. */}
-            {/* Card code block start */}
 
             <div className="w-4/5 mx-auto pb-12">
-              <h1 className="xl:text-4xl text-3xl text-center myColor mb-4 font-extrabold">
+              <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl myColor text-center font-extrabold mb-4">
               Why Choose Us?
               </h1>
-              {/* <p className="text-xl text-center text-gray-300 leading-normal">
-              A funded trader program is designed for traders who have skills and experience but are lacking enough capital to make trading full time profitable.
-              </p> */}
             </div>
             <div className="flex flex-col lg:flex-row mx-auto w-full  bg-transparent">
               <div className="w-full lg:w-2/4 p-6 text-center">

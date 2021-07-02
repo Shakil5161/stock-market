@@ -5,7 +5,7 @@ const Pricing = () => {
         <>
              <div id="pricing" className="container mx-auto pt-28 pb-20">
             <div className="w-4/5 mx-auto pb-12">
-                <h1 className="xl:text-4xl text-3xl text-center text-gray-800 mb-4 font-extrabold">Simple &amp; Transparent Pricing</h1>
+                <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Simple &amp; Transparent Pricing</h1>
                 <p className="text-xl text-center text-gray-600 leading-normal">We grow when your business does. So we have put together simple pricing that allows you to easily scale your business when its needs evolve. So choose a plan for your next project.</p>
             </div>
             <div className="flex flex-wrap justify-between">

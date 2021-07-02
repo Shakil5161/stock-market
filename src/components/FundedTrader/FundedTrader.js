@@ -12,7 +12,7 @@ const FundedTrader = () => {
             {/* Card code block start */}
             
             <div className="w-4/5 mx-auto pb-12">
-              <h1 className="xl:text-4xl text-3xl text-center text-white mb-4 font-extrabold">
+              <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-white text-center font-extrabold mb-4">
               What is <br /> <span className="myColor">Funded Trader Program?</span>
               </h1>
               <p className="text-xl text-center text-gray-300 leading-normal">

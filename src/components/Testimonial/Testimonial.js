@@ -6,7 +6,7 @@ const Testimonial = () => {
              <div className="container mx-auto pt-16">
                 {/* PLease install Pure React Carousel using "npm i pure-react-carousel" in order to use this component */}
                 <div className="pb-12">
-                    <h1 className="text-3xl xl:text-4xl font-extrabold text-gray-800 mx-auto text-center  pb-4">Hear From Our Trader</h1>
+                    <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Hear From Our Trader</h1>
                     <p className="text-xl text-gray-600 xl:w-3/4 w-11/12 mx-auto  text-center ">I just wanted to share a quick note and let you know that you guys do a really good job. I’m glad I decided to work with you. It’s really great how easy your websites are to update and manage.</p>
                 </div>
                 <CarouselProvider className="overflow-hidden animate__animated animate__bounceInUp animate__slow" naturalSlideWidth={100} naturalSlideHeight={125} totalSlides={3} isIntrinsicHeight={true} infinite={true}>
@@ -265,7 +265,6 @@ const Testimonial = () => {
                 </div>
                 </CarouselProvider>
             </div>
-              
         </>
     );
 };

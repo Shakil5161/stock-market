@@ -5,7 +5,7 @@ import logo from "../../img/StockMarket.png"
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div>
+    <>
       <nav className="bg-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
@@ -52,6 +52,13 @@ const Navbar = () => {
                     className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
                     Reports
+                  </a>
+
+                  <a
+                    href="#contact"
+                    className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    Contact
                   </a>
                   <button class="animate__animated animate__pulse animate__infinite	animate__slow bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
                     Sign In
@@ -157,7 +164,7 @@ const Navbar = () => {
           )}
         </Transition>
       </nav>
-    </div>
+    </>
   );
 };
 

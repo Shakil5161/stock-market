@@ -4,7 +4,7 @@ const TargetYearly = () => {
   return (
     <div id="yearlyGoal" className="container m-auto pt-28 pb-20">
         <div className="w-4/5 mx-auto pb-8">
-            <h1 className="xl:text-4xl text-3xl text-center text-gray-800 mb-4 font-extrabold">
+            <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">
               Funded Traders Processed in 2021
             </h1>
           </div>
