@@ -22,7 +22,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1566753323558-f4e0952af115.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -46,7 +46,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1548958921-c5c0fe1b307d.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -70,7 +70,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -101,7 +101,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1548958921-c5c0fe1b307d.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -125,7 +125,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1566753323558-f4e0952af115.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -149,7 +149,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -180,7 +180,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -204,7 +204,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1566753323558-f4e0952af115.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -228,7 +228,7 @@ const Testimonial = () => {
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
                                             <div className="pl-6 pr-6 pt-10 relative h-64">
-                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6">
+                                                <div className="h-16 w-16 rounded-full bg-cover border-4 border-white absolute top-0 right-0 -mt-8 mr-6 animate__animated animate__pulse animate__infinite animate__slow">
                                                     <img src="https://cdn.tuk.dev/assets/photo-1548958921-c5c0fe1b307d.jfif" alt className="h-full w-full object-cover rounded-full overflow-hidden" />
                                                 </div>
                                                 <p className="text-base text-gray-600 leading-8">It really saves me time and effort. Chamer is exactly what our business has been lacking. Chamer was worth a fortune to my company.</p>
@@ -265,64 +265,7 @@ const Testimonial = () => {
                 </div>
                 </CarouselProvider>
             </div>
-               {/* <InfiniteCarousel
-    breakpoints={[
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 2,
-        },
-      },
-      {
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-        },
-      },
-    ]}
-    dots={true}
-    showSides={true}
-    sidesOpacity={.5}
-    // sideSize={.1}
-    slidesToScroll={4}
-    slidesToShow={4}
-    scrollOnDevice={true}
-  >
-    <div>
-      <img
-        alt=''
-        src={paypal}
-        height="20px"
-        width="20px"
-      />
-    </div>
-    <div>
-      <img
-        alt=''
-        src={payoneer}
-      />
-    </div>
-    <div>
-      <img
-        alt=''
-        src={goodbit}
-      />
-    </div>
-    <div>
-      <img
-        alt=''
-        src={skrill}
-      />
-    </div>
-    <div>
-      <img
-        alt=''
-        src={coolpay}
-      />
-    </div>
-  </InfiniteCarousel> */}
+              
         </>
     );
 };
