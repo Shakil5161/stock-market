@@ -34,9 +34,9 @@ const Home = () => {
       </Parallax>
       <WhyUs />
       <Parallax
-        blur={2}
+        // blur={2}
         bgImage={parallax}
-        opacity={0.1}
+        // opacity={0.1}
         border={0}
         bgImageAlt="Stock Market"
         strength={500}

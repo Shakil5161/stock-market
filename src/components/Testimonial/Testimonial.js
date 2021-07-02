@@ -17,7 +17,7 @@ const Testimonial = () => {
                                 <div className="flex flex-wrap justify-around">
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:pb-0 pb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Alex Parkinson</p>
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
@@ -41,7 +41,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Ashley Wilson</p>
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
@@ -65,7 +65,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Richard Clark</p>
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
@@ -96,7 +96,7 @@ const Testimonial = () => {
                                 <div className="flex flex-wrap justify-around">
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Ashley Wilson</p>
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
@@ -120,7 +120,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:pb-0 pb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Alex Parkinson</p>
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
@@ -144,7 +144,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Richard Clark</p>
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
@@ -175,7 +175,7 @@ const Testimonial = () => {
                                 <div className="flex flex-wrap justify-around">
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Richard Clark</p>
                                                 <p className="text-base text-indigo-200">Apple Inc</p>
                                             </div>
@@ -199,7 +199,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:pb-0 pb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Alex Parkinson</p>
                                                 <p className="text-base text-indigo-200">AlphaSquad LLC</p>
                                             </div>
@@ -223,7 +223,7 @@ const Testimonial = () => {
                                     </div>
                                     <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
-                                            <div className="bg-indigo-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
+                                            <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Ashley Wilson</p>
                                                 <p className="text-base text-indigo-200">i-Intellect Inc</p>
                                             </div>
