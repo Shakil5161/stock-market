@@ -6,10 +6,10 @@ const Banner = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
         <div className="flex items-center justify-between text-white ">
           <div className="py-72">
-            <h4 class="font-sans text-3xl font-semibold">
+            <h4 class="font-sans text-4xl font-semibold">
               Our Fund, Your Profit
             </h4>
-            <h2 class="pt-8 pb-4 font-mono text-6xl font-extrabold myColor">
+            <h2 class="pt-8 pb-4 font-mono text-8xl font-extrabold myColor">
               Trade Up to $100,000
             </h2>
             <p>
