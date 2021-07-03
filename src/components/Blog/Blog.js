@@ -3,7 +3,7 @@ import 'animate.css/animate.css'
 const Blog = () => {
     return (
         <>
-            <div id="blog" className="py-16 sm:py-16 md:py-44 lg:py-12 px-4">
+            <div id="blog" className="py-36">
             <div data-aos="zoom-in">
                 <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Our Blog Posts</h1>
                 <p className="text-xl text-gray-600 text-center xl:w-3/5 mx-auto w-11/12">Don’t focus on having a great blog. Focus on producing a blog that’s great for your readers.” As a blogger, everything you do flows from understanding your audience and seeking to help them.</p>

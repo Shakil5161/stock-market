@@ -5,15 +5,15 @@ const FundedTrader = () => {
   return (
     <>
       <Parallax
-        blur={2}
+        // blur={2}
         bgImage={parallaxImg}
-        opacity={0.1}
+        // opacity={0.1}
         border={0}
         bgImageAlt="Stock Market"
         strength={500}
         className="opacity-80"
       >
-        <div className="w-full dark:bg-gray-900 py-10">
+        <div className="w-full dark:bg-gray-900 py-32">
           <div className="container mx-auto px-6 flex items-start justify-center">
             <div className="w-90%">
               {/* Card is full width. Use in 12 col grid for best view. */}
@@ -34,7 +34,7 @@ const FundedTrader = () => {
                 className="flex flex-col lg:flex-row mx-auto w-full bg-transparent"
                 
               >
-                <div className="w-full lg:w-2/4 p-6" data-aos="slide-right"
+                <div className="w-full lg:w-2/4 p-6" data-aos="fade-right"
                 data-aos-duration="800">
                   <h1 className="text-2xl myColor">Why is it Needed?</h1>
                   <p className="text-gray-200 pt-5 ">
@@ -45,7 +45,7 @@ const FundedTrader = () => {
                  
                 </div>
                 <div className="w-full lg:w-2/4 p-6 border-t border-b lg:border-t-0 lg:border-b-0 sm:border-l border-gray-300">
-                  <div  data-aos="slide-left" data-aos-duration="800">
+                  <div  data-aos="fade-left" data-aos-duration="800">
                     <h1 className="text-2xl myColor">How does it work?</h1>
                     <p className="text-gray-200 pt-5">
                       Get instant funding with a funded trader prog- ram and
@@ -57,7 +57,7 @@ const FundedTrader = () => {
               <div className="flex flex-col lg:flex-row mx-auto w-full bg-transparent">
                 <div
                   className="w-full lg:w-2/4 p-6"
-                  data-aos="slide-right"
+                  data-aos="fade-right"
                   data-aos-duration="1200"
                 >
                   <h1 className="text-2xl myColor">
@@ -70,7 +70,7 @@ const FundedTrader = () => {
                   </p>
                 </div>
                 <div className="w-full lg:w-2/4 p-6 border-t border-b lg:border-t-0 lg:border-b-0 sm:border-l border-gray-300">
-                  <div data-aos="slide-left" data-aos-duration="1200">
+                  <div data-aos="fade-left" data-aos-duration="1200">
                     <h1 className="text-2xl myColor">
                       What is the ultimate goal?
                     </h1>

@@ -51,13 +51,13 @@ nd the best execution quality.</p>
             </div>
             <div className="flex flex-col lg:flex-row mx-auto w-full bg-transparent">
               <div className="w-full lg:w-2/4 p-6 text-center" data-aos="fade-right"
-                data-aos-duration="1600">
+                data-aos-duration="1800">
               <img className="m-auto animate__animated animate__pulse animate__infinite animate__slow" src={img5} alt="" srcset="" />
                 <h1 className="text-2xl myColor">No limit on Trading Style</h1>
                 <p className="text-gray-200 pt-5">Use any trading strategy, style with no limits or restrictions. We allow you to trade the news, hedge positions or you can use your own EAs.</p>
               </div>
               <div className="w-full lg:w-2/4 p-6 text-center border-t border-b lg:border-t-0 lg:border-b-0 sm:border-l border-gray-300">
-                <div data-aos="fade-left" data-aos-duration="1600">
+                <div data-aos="fade-left" data-aos-duration="1800">
                 <img className="m-auto animate__animated animate__pulse animate__infinite animate__slow" src={img6} alt="" srcset="" />
                 <h1 className="text-2xl myColor">Profit Share </h1>
                 <p className="text-gray-200 pt-5">We reward our funded traders for their hard work and good performance. You can get more profit share as you progress through our funded trader program. It's a win/win partnership. You can get profit share from the beginning, or from your first trade.</p>

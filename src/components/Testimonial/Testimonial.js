@@ -3,7 +3,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from "pure-re
 const Testimonial = () => {
     return (
         <>
-             <div className="container mx-auto pt-16">
+             <div className="container mx-auto pt-36 pb-24">
                 {/* PLease install Pure React Carousel using "npm i pure-react-carousel" in order to use this component */}
                 <div className="pb-12" data-aos='zoom-in'>
                     <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Hear From Our Trader</h1>

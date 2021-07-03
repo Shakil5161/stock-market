@@ -8,7 +8,7 @@ import goodbit from "../../img/goodbit.png";
 const Payoutgateways = () => {
   return (
     <>
-      <div className="container m-auto pt-20 pb-20" data-aos='zoom-in'>
+      <div className="container m-auto pb-36" data-aos='zoom-in'>
         <div className="w-4/5 mx-auto pb-16">
           <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">
             Payout Gateways

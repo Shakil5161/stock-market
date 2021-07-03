@@ -3,7 +3,7 @@ import logo from "../../img/StockMarket.png";
 const OurClient = () => {
   return (
     <>
-      <div className="w-full dark:bg-gray-900 py-10">
+      <div className="w-full dark:bg-gray-900 py-36">
         <div className="container mx-auto px-6 flex items-start justify-center">
           <div className="w-90%" data-aos='zoom-in' data-duration="1200">
             {/* Card is full width. Use in 12 col grid for best view. */}

@@ -2,7 +2,7 @@ import React from "react";
 
 const TargetYearly = () => {
   return (
-    <div id="yearlyGoal" className="container m-auto pt-28 pb-20" data-aos='zoom-in'>
+    <div id="yearlyGoal" className="container m-auto" data-aos='zoom-in'>
         <div className="w-4/5 mx-auto pb-8">
             <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">
               Funded Traders Processed in 2021

@@ -4,8 +4,8 @@ const Pricing = () => {
     
     return (
         <>
-             <div id="pricing" className="container mx-auto pt-28 pb-20">
-            <div className="w-4/5 mx-auto pb-12" data-aos='zoom-in' data-aos-duration="1000">
+             <div id="pricing" className="container mx-auto pb-36">
+            <div className="w-4/5 mx-auto pb-16" data-aos='zoom-in' data-aos-duration="1000">
                 <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Simple &amp; Transparent Pricing</h1>
                 <p className="text-xl text-center text-gray-600 leading-normal">We grow when your business does. So we have put together simple pricing that allows you to easily scale your business when its needs evolve. So choose a plan for your next project.</p>
             </div>
