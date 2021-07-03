@@ -2,14 +2,14 @@ import React from "react";
 import BannerImg from "../../img/bnr_img.png";
 const Banner = () => {
   return (
-    <div class="bg-gray-800">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
-        <div className="flex items-center justify-between text-white ">
-          <div className="py-64">
+    <div class="bg-gray-800 py-20 sm:py-64 ">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col sm:flex-row items-center justify-between text-white ">
+          <div className=" pb-16 sm:py-0">
             <h4 class="font-sans text-4xl font-semibold">
               Our Fund, Your Profit
             </h4>
-            <h2 class="pt-8 pb-4 font-mono text-8xl font-extrabold myColor">
+            <h2 class="pt-8 pb-4 font-mono text-6xl sm:text-8xl  font-extrabold myColor">
               Trade Up to $100,000
             </h2>
             <p>
@@ -26,7 +26,7 @@ const Banner = () => {
             </div>
           </div>
           <div className="w-6/12 animate__animated animate__bounceInRight">
-            <img className="animate__animated animate__pulse animate__infinite animate__slow animate__delay-3s" src={BannerImg} alt="" srcset="" width="100%" />
+            <img className="animate__animated animate__pulse animate__infinite animate__slow animate__delay-3s" src={BannerImg} alt="" srcset="" width="100%"/>
           </div>
         </div>
       </div>
