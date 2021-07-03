@@ -5,17 +5,17 @@ const Testimonial = () => {
         <>
              <div className="container mx-auto pt-16">
                 {/* PLease install Pure React Carousel using "npm i pure-react-carousel" in order to use this component */}
-                <div className="pb-12">
+                <div className="pb-12" data-aos='zoom-in'>
                     <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Hear From Our Trader</h1>
                     <p className="text-xl text-gray-600 xl:w-3/4 w-11/12 mx-auto  text-center ">I just wanted to share a quick note and let you know that you guys do a really good job. I’m glad I decided to work with you. It’s really great how easy your websites are to update and manage.</p>
                 </div>
-                <CarouselProvider className="overflow-hidden animate__animated animate__bounceInUp animate__slow" naturalSlideWidth={100} naturalSlideHeight={125} totalSlides={3} isIntrinsicHeight={true} infinite={true}>
+                <CarouselProvider className="overflow-hidden" naturalSlideWidth={100} naturalSlideHeight={125} totalSlides={3} isIntrinsicHeight={true} infinite={true}>
                     <Slider>
                         <Slide index={1}>
                             {" "}
                             <figure className="py-4">
                                 <div className="flex flex-wrap justify-around">
-                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:pb-0 pb-12">
+                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:pb-0 pb-12"  data-aos='slide-right' data-duration='1500'>
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
                                             <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Alex Parkinson</p>
@@ -39,7 +39,7 @@ const Testimonial = () => {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
+                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12" data-aos='zoom-in'>
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
                                             <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Ashley Wilson</p>
@@ -63,7 +63,7 @@ const Testimonial = () => {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12">
+                                    <div className="xl:w-1/3 lg:w-5/12 w-11/12 sm:w-3/5 md:w-5/12 xl:mb-0 mb-12" data-aos='slide-left' data-duration='1500'>
                                         <div className="shadow-lg mx-3 xl:mx-3 sm:mx-0 lg:mx-0 rounded">
                                             <div className="bg-purple-700 pt-6 pb-6 pl-6 rounded-tl rounded-tr">
                                                 <p className="text-xl text-white pb-1">Richard Clark</p>

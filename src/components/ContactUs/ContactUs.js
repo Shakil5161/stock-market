@@ -11,7 +11,7 @@ const ContactUs = () => {
         />
         <div className="xl:mx-auto xl:container  relative ">
           <div className="flex flex-wrap xl:mx-auto xl:container">
-            <div className="w-full relative lg:w-1/2 xl:mt-10 mb-10 2xl:pr-24 2xl:pl-0 xl:pl-12 pl-0 ">
+            <div className="w-full relative lg:w-1/2 xl:mt-10 mb-10 2xl:pr-24 2xl:pl-0 xl:pl-12 pl-0" data-aos='slide-right' data-duration='1200'>
               <img
                 src="https://cdn.tuk.dev/assets/templates/radian/Back_Image.png"
                 className="h-full w-full xl:w-1/2 absolute inset-0 bg-cover bg-center xl:hidden"
@@ -59,7 +59,7 @@ const ContactUs = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full lg:w-1/2   xl:pt-10 lg:pl-24">
+            <div className="w-full lg:w-1/2   xl:pt-10 lg:pl-24" data-aos='slide-left' data-duration='1200'>
               <div className="flex flex-col items-start xl:justify-start 2xl:justify-end xl:px-0 px-4">
                 <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-purple-700 text-center font-extrabold mb-4">
                   Let’s Talk
@@ -68,7 +68,7 @@ const ContactUs = () => {
                   <h2 className="text-gray-800 text-base md:text-lg leading-8 tracking-wider">
                     For enquiries, please email us using the form below
                   </h2>
-                  <div className="mt-4 md:mt-8">
+                  <div className="mt-4 md:mt-8" data-aos='fade-left' data-duration='1200'>
                     <p className="text-gray-800 text-base font-medium">Name</p>
                     <input
                       className="mt-3 text-base border-2 w-11/12 lg:w-full xl:w-10/12 hover:border-purple-700 focus:border-purple-700 focus:outline-none border-black py-5 pl-4 text-gray-800"
@@ -76,7 +76,7 @@ const ContactUs = () => {
                       placeholder="Shakil Ahmed"
                     />
                   </div>
-                  <div className="mt-4 md:mt-8">
+                  <div className="mt-4 md:mt-8" data-aos='fade-left' data-duration='1800'>
                     <p className="text-gray-800 text-base font-medium">
                       Email Address
                     </p>
@@ -86,7 +86,7 @@ const ContactUs = () => {
                       placeholder="shakilahmed@mail.com"
                     />
                   </div>
-                  <div className="mt-4 md:mt-8">
+                  <div className="mt-4 md:mt-8" data-aos='fade-left' data-duration='2400'>
                     <p className="text-gray-800 text-base font-medium">
                       Message
                     </p>
@@ -97,7 +97,7 @@ const ContactUs = () => {
                       defaultValue={""}
                     />
                   </div>
-                  <div className="py-5">
+                  <div className="py-5" data-aos='fade-left' data-duration='3000'>
                     <button className="xl:text-2xl text-1xl focus:outline-none bg-white hover:bg-gray-100 transition duration-150 ease-in-out hover:border-purple-700 hover:text-white hover:bg-purple-700 rounded border border-purple-600 text-purple-600 px-6 py-2 text-sm">
                       Send
                     </button>

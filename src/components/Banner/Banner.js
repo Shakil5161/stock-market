@@ -17,10 +17,10 @@ const Banner = () => {
               traders and help earn full-time
             </p>
             <div className="pt-8 animate__animated animate__bounceInUp animate__delay-1s">
-              <button class="mr-6 bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
+              <button class="animate__animated animate__pulse animate__infinite	animate__slow animate__delay-3s mr-6 bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
                 Get Funded Now
               </button>
-              <button class=" bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
+              <button class="animate__animated animate__pulse animate__infinite	animate__slow animate__delay-3s bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
                 Start Demo
               </button>
             </div>

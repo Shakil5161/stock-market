@@ -1,15 +1,16 @@
-import React from 'react';
-
+import React, { useEffect } from 'react';
+import 'animate.css/animate.css';
 const Pricing = () => {
+    
     return (
         <>
              <div id="pricing" className="container mx-auto pt-28 pb-20">
-            <div className="w-4/5 mx-auto pb-12">
+            <div className="w-4/5 mx-auto pb-12" data-aos='zoom-in' data-aos-duration="1000">
                 <h1 className="xl:text-5xl pt-4 xl:pt-0 text-3xl text-gray-800 text-center font-extrabold mb-4">Simple &amp; Transparent Pricing</h1>
                 <p className="text-xl text-center text-gray-600 leading-normal">We grow when your business does. So we have put together simple pricing that allows you to easily scale your business when its needs evolve. So choose a plan for your next project.</p>
             </div>
             <div className="flex flex-wrap justify-between">
-                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border border-gray-300 bg-white hover:border-purple-700 animate__animated animate__bounceInUp animate__slower">
+                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border border-gray-300 bg-white hover:border-purple-700" data-aos='slide-up' data-aos-duration="1200">
                     <div className="pt-8 px-8 pb-6">
                         <h4 className="text-2xl text-center text-gray-800 pb-3 font-bold">Beginner Trader</h4>
                         <p className="text-sm text-center text-gray-600 pb-5 leading-normal px-10">Basic resources for a starter site. Individuals and small teams.</p>
@@ -53,7 +54,7 @@ const Pricing = () => {
                         <button className="focus:outline-none bg-white hover:bg-gray-100 transition duration-150 ease-in-out hover:border-purple-700 hover:text-white hover:bg-purple-700 rounded border border-purple-600 text-purple-600 px-6 py-2 text-sm">Get Funded Now</button>
                     </div>
                 </div>
-                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border-4 hover:border-purple-700 bg-white animate__animated animate__bounceInDown animate__slow">
+                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border-4 hover:border-purple-700 bg-white" data-aos='slide-up' data-aos-duration="1800">
                     <div className="pt-8 px-8 pb-6">
                         <h4 className="text-2xl text-center text-gray-800 pb-3 font-bold">Confident Trader</h4>
                         <p className="text-sm text-center text-gray-600 pb-5 leading-normal px-10">More power for company sites and heavy traffic. Growing business.</p>
@@ -96,7 +97,7 @@ const Pricing = () => {
                         <button className="focus:outline-none bg-purple-700 transition duration-150 ease-in-out hover:bg-purple-600 rounded text-white px-6 py-2 text-sm">Get Funded Now</button>
                     </div>
                 </div>
-                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border border-gray-300 hover:border-purple-700 hover:translate-50% bg-white animate__animated animate__bounceInUp animate__slower">
+                <div className="w-11/12 xl:w-1/3 lg:w-1/2 sm:w-5/12 md:w-5/12 mx-auto mb-4 max-w-sm shadow rounded-lg border border-gray-300 hover:border-purple-700 hover:translate-50% bg-white" data-aos='slide-up' data-aos-duration="2400">
                     <div className="pt-8 px-8 pb-6">
                         <h4 className="text-2xl text-center text-gray-800 pb-3 font-bold">Expert Trader</h4>
                         <p className="text-sm text-center text-gray-600 pb-5 leading-normal px-10">Support multi-complex sites and high-resolution photos and videos.</p>

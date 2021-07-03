@@ -60,7 +60,7 @@ const Navbar = () => {
                   >
                     Contact
                   </a>
-                  <button class="animate__animated animate__pulse animate__infinite	animate__slow bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
+                  <button class="animate__animated animate__pulse animate__infinite	animate__slow animate__delay-3s bg-transparent hover:bg-purple-700  text-white font-semibold hover:text-white py-2 px-4 border border-purple-700 hover:border-transparent rounded">
                     Sign In
                   </button>
                 </div>

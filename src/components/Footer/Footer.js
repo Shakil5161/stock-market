@@ -7,7 +7,7 @@ const Footer = () => {
         <>
              <div className=" bg-linear-pink-invert pb-12">
                 <div className="mx-auto container lg:pt-16 flex flex-col items-center justify-center">
-                    <div className="animate__animated animate__bounceInDown animate__delay-5s">
+                    <div>
                         <img className="animate__animated animate__pulse animate__infinite animate__slow animate__delay-3s" src={logo} alt="" width="100px" srcset="" />
                     </div>
                     <div className="text-black flex flex-col md:items-center f-f-l ">

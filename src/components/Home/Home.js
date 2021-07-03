@@ -1,4 +1,4 @@
-import React from "react";
+import React, {lazy, Suspense, useEffect} from "react";
 import Banner from "../Banner/Banner";
 import Blog from "../Blog/Blog";
 import ContactUs from "../ContactUs/ContactUs";
@@ -14,7 +14,15 @@ import WhyUs from "../WhyUs/WhyUs";
 import { Parallax } from "react-parallax";
 import parallax from "../../img/parallax2.jpg";
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 const Home = () => {
+  useEffect(() =>{
+    AOS.init({
+        offset: 100,
+        duration: 1000,
+    })
+},[])
   return (
     <>
       <Navbar />
