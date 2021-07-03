@@ -5,7 +5,7 @@ const Banner = () => {
     <div class="bg-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
         <div className="flex items-center justify-between text-white ">
-          <div className="py-72">
+          <div className="py-64">
             <h4 class="font-sans text-4xl font-semibold">
               Our Fund, Your Profit
             </h4>
