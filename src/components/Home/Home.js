@@ -29,13 +29,11 @@ const Home = () => {
       <Banner />
       <FundedTrader />
       <Parallax
-        blur={2}
         bgImage={parallax}
-        opacity={0.1}
         border={0}
         bgImageAlt="Stock Market"
         strength={500}
-        className="opacity-80"
+        className="opacity-100"
       >
         <OurClient />
         <Pricing />
@@ -44,11 +42,10 @@ const Home = () => {
       <Parallax
         // blur={2}
         bgImage={parallax}
-        // opacity={0.1}
         border={0}
         bgImageAlt="Stock Market"
         strength={500}
-        className="opacity-80"
+        className="opacity-100"
       >
         <Testimonial />
         <TargetYearly />

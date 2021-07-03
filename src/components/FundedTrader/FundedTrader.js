@@ -7,7 +7,6 @@ const FundedTrader = () => {
       <Parallax
         // blur={2}
         bgImage={parallaxImg}
-        // opacity={0.1}
         border={0}
         bgImageAlt="Stock Market"
         strength={500}
